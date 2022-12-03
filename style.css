@@ -1,0 +1,21 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(75, 70, 70);
+    background-color: #9c9696;
+}
+main {
+    width: 900px;
+    margin: 0 auto;
+    
+    /* margin-top: 0;
+    margin-right: auto;
+    margin-bottom :0;
+    margin-left: auto; */
+
+    background-color: #fefefe;
+    padding:30px 16px;
+}
+    
+#p2{
+    font-size: 6px;
+}
